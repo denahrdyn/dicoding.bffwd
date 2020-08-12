@@ -1,0 +1,50 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Raleway", sans-serif;
+}
+
+main {
+    width: 90%;
+    max-width: 800px;
+    margin: 32px auto;
+}
+
+food-list {
+    margin-top: 32px;
+    width: 100%;
+    padding: 16px;
+}
+
+.jumbotron {
+    background-color: white;
+    font-family: "Open Sans", sans-serif;
+    padding: 0rem;
+}
+
+.jumbotron h1 {
+    color: black;
+    font-size: 3rem;
+    font-weight: 600;
+}
+
+.jumbotron p {
+    color: #5f5d5d;
+    font-size: 0.9rem;
+}
+
+.jumbotron img {
+    width: 100%;
+    max-width: 550px;
+    position: relative;
+}
+
+footer {
+    background-color: #fff;
+    border-top: 1px solid #dee2e6;
+    padding: 2rem .75rem;
+}
